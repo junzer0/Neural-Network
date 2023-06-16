@@ -1,6 +1,3 @@
-# Neural-Network
-📒 신경망 공부(Neural Network Study)
-
 # Neural Network - Single layer perceptron
 ## 1. 단층 퍼셉트론
 ### 1. 학습 계획
